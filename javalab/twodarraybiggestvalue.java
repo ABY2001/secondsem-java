@@ -30,6 +30,7 @@ public class twodarraybiggestvalue {
 			}
 		}
 		System.out.println("biggest value is :"+ biggestvalue);
+		sc.close();
 	}
 
 }
